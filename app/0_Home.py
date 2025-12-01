@@ -73,6 +73,8 @@ with st.expander("📘 Come funziona questa applicazione?", expanded=False):
         """
     )
 
+st.write("---")
+st.write("L'applicazione utilizza modelli di machine learning addestrati su dati pubblici e ha finalità esclusivamente didattiche e dimostrative. Le previsioni generate non rappresentano valutazioni cliniche né sostituiscono il parere di un professionista sanitario. Non utilizzare questo strumento per prendere decisioni mediche o legate alla propria salute.")
 
 st.write("---")
 st.caption("di **Simone Cammarosano**")
