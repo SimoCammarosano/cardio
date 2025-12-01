@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+.env/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Models
+*.pkl
+model/*.pkl
+
+# Dataset raw
+data/*.csv
+data/*.xlsx
+
+# Databases
+db/*.db
+*.sqlite
+
+# System files
+.DS_Store
+Thumbs.db
+
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
