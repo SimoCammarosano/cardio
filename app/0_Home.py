@@ -75,4 +75,4 @@ with st.expander("📘 Come funziona questa applicazione?", expanded=False):
 
 
 st.write("---")
-st.caption("Progetto tesi di **Simone Cammarosano** – MDA 2024/25")
+st.caption("di **Simone Cammarosano**")

@@ -210,4 +210,3 @@ with st.expander(f"📄({len(df_filtered)} righe)"):
 
 
 st.write("---")
-st.caption("Progetto tesi di **Simone Cammarosano** – MDA 2024/25")

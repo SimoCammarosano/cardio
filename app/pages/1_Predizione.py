@@ -276,4 +276,3 @@ if "last_values" in st.session_state:
 
 
 st.write("---")
-st.caption("Progetto tesi di **Simone Cammarosano** – MDA 2024/25")

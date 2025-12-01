@@ -264,4 +264,3 @@ st.write("\n".join(confronti))
 
 
 st.write("---")
-st.caption("Progetto tesi di **Simone Cammarosano** – MDA 2024/25")
